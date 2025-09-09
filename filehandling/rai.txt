@@ -1,0 +1,2 @@
+Hello, Rust file handling!
+i love programming to make a relastic thing by usnig code.
